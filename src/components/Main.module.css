@@ -1,0 +1,120 @@
+.container {
+    margin: 50px auto;
+    width: 70%;
+}
+
+
+.whatWeDoHeading {
+    color: #37A;
+    font-size: 48px;
+    font-weight: 300;
+    padding-bottom: 20px;
+}
+
+
+.whatweDoPara {
+    color: #707070;
+    font-size: 1.2rem;
+    line-height: 30px;
+}
+
+.CardSection {
+    display: flex;
+    gap: 100px;
+    margin: 40px 0px;
+}
+
+.CardHeading {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 2rem;
+    color: #37A;
+    margin-bottom: 20px;
+}
+
+.CardPara {
+    color: #707070;
+    font-size: 1.2rem;
+    line-height: 30px;
+}
+
+.Detilsbtn {
+    color: white;
+    background-color: #369;
+    padding: 14px 30px;
+    font-size: 1.2rem;
+}
+
+.Btn {
+    margin-top: 40px;
+}
+
+.card {
+    width: 710px;
+}
+
+.testimonilSection {
+    background-image: url('https://www.tooplate.com/templates/2117_infinite_loop/img/infinite-loop-02.jpg');
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+}
+
+.Testimonials {
+color: white;
+font-size: 30px;
+font-weight: 300;
+text-align: center;
+padding-top: 40px;
+}
+
+.TestimonialsPara {
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    padding-top: 40px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.testimonialscroll{
+    display: flex;
+   margin:  3% auto;
+   width: 50%;
+   overflow: scroll;
+
+}
+
+.imagetesti{
+    padding: 30px;
+}
+
+.testimonialSec{
+    min-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.testiImage{
+    border-radius: 100%;
+}
+
+
+.GalleryHeading{
+    font-size: 2.6rem;
+    font-weight: normal;
+    color: #37A;
+    text-align: center;
+}
+
+.GalleryPara{
+    font-size: 0.9rem;
+    line-height: 1.9;
+    color: #707070;
+    text-align: center;
+}
